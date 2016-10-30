@@ -1,5 +1,5 @@
 # k-NN-Implementation
-Introduction to k-NN
+
 k-NN is a supervised, lazy algorithm that compares incoming test data with training data to find similar instances, using which test data is classified. For a given test instance, the algorithm searches for k number of closest instances/neighbors from training data. Once this set of closest instances is obtained, the class label occurring most number of times is assigned to the test instance; ties are broken arbitrarily.
 
 The three distance/similarity measures implemented here are,
