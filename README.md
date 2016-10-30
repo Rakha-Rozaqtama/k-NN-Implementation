@@ -25,5 +25,5 @@ Input to the code:
 
 Output:
 
-1. Each record/instance and respective prediction
+1. Each (test) record/instance and respective prediction
 2. Overall accuracy for each type of distance/similarity measure
